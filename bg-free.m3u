@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bg.xml"
+
+#EXTINF:-1 tvg-id="BNT1.bg" group-title="National",BNT 1
+https://bnt1.bnt.bg/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="BNT2.bg" group-title="National",BNT 2
+https://bnt2.bnt.bg/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="BNT3.bg" group-title="National",BNT 3
+https://bnt3.bnt.bg/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="BNT4.bg" group-title="National",BNT 4
+https://bnt4.bnt.bg/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg" group-title="News",Euronews Bulgaria
+https://stream.euronews.bg/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Eurocom.bg" group-title="News",Eurocom
+https://eurocom.bg/live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergBG.bg" group-title="News",Bloomberg TV Bulgaria
+https://bloombergtv.bg/live.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.bg" group-title="Music",Magic TV
+https://magic-tv.bg/live.m3u8
+
+#EXTINF:-1 tvg-id="TheVoice.bg" group-title="Music",The Voice
+https://thevoice.bg/live.m3u8
+
+#EXTINF:-1 tvg-id="CityTV.bg" group-title="Music",City TV
+https://citytv.bg/live.m3u8
+
+#EXTINF:-1 tvg-id="BGMusic.bg" group-title="Music",BG Music Channel
+https://bgmusic.bg/live.m3u8
