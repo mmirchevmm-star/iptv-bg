@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bulgaria",BNT 1
+https://yt-proxy.cubstream.workers.dev/live/bnt1.m3u8
+
+#EXTINF:-1 group-title="Bulgaria",BNT 2
+https://yt-proxy.cubstream.workers.dev/live/bnt2.m3u8
+
+#EXTINF:-1 group-title="Bulgaria",BNT 3
+https://yt-proxy.cubstream.workers.dev/live/bnt3.m3u8
+
+#EXTINF:-1 group-title="Bulgaria",BNT 4
+https://yt-proxy.cubstream.workers.dev/live/bnt4.m3u8
+
+#EXTINF:-1 group-title="News",Euronews Bulgaria
+https://yt-proxy.cubstream.workers.dev/live/euronewsbg.m3u8
+
+#EXTINF:-1 group-title="Music",City TV
+https://yt-proxy.cubstream.workers.dev/live/citytv.m3u8
+
+#EXTINF:-1 group-title="General",TV1
+https://yt-proxy.cubstream.workers.dev/live/tv1.m3u8
