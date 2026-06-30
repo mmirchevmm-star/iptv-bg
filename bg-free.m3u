@@ -1,3 +1,29 @@
-#EXTM3U url-tvg="http://epg.kodibg.org/dl.php" 
-#EXTM3U url-tvg="http://m3u4u.com/epg/476rnm2me7czxx3yekgd" 
-#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11118 
+#EXTM3U
+
+# --------- BNT 1 (CUB-compatible) ---------
+#EXTINF:-1 group-title="Bulgaria",BNT 1
+https://ythls.army/live/bnt1/index.m3u8
+
+# --------- BNT 2 (CUB-compatible) ---------
+#EXTINF:-1 group-title="Bulgaria",BNT 2
+https://ythls.army/live/bnt2/index.m3u8
+
+# --------- BNT 3 (CUB-compatible) ---------
+#EXTINF:-1 group-title="Bulgaria",BNT 3
+https://ythls.army/live/bnt3/index.m3u8
+
+# --------- BNT 4 (CUB-compatible) ---------
+#EXTINF:-1 group-title="Bulgaria",BNT 4
+https://ythls.army/live/bnt4/index.m3u8
+
+# --------- Euronews Bulgaria ---------
+#EXTINF:-1 group-title="News",Euronews Bulgaria
+https://ythls.army/live/euronewsbulgaria/index.m3u8
+
+# --------- City TV (YouTube proxy) ---------
+#EXTINF:-1 group-title="Music",City TV
+https://ythls.army/live/citytv/index.m3u8
+
+# --------- TV1 (YouTube proxy) ---------
+#EXTINF:-1 group-title="General",TV1
+https://ythls.army/live/tv1/index.m3u8
