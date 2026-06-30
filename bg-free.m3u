@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BNT1.bg" group-title="National",BNT 1
+
+# ---------- BNT ----------
+#EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://i.imgur.com/8YkYQ0M.png" group-title="Bulgaria",BNT 1
 https://bnt1.bnt.bg/hls/live.m3u8
-#EXTINF:-1 tvg-id="BNT2.bg" group-title="National",BNT 2
+
+#EXTINF:-1 tvg-id="bnt2.bg" tvg-logo="https://i.imgur.com/8YkYQ0M.png" group-title="Bulgaria",BNT 2
 https://bnt2.bnt.bg/hls/live.m3u8
-#EXTINF:-1 tvg-id="BNT3.bg" group-title="National",BNT 3
+
+#EXTINF:-1 tvg-id="bnt3.bg" tvg-logo="https://i.imgur.com/8YkYQ0M.png" group-title="Bulgaria",BNT 3
 https://bnt3.bnt.bg/hls/live.m3u8
-#EXTINF:-1 tvg-id="BNT4.bg" group-title="National",BNT 4
+
+#EXTINF:-1 tvg-id="bnt4.bg" tvg-logo="https://i.imgur.com/8YkYQ0M.png" group-title="Bulgaria",BNT 4
 https://bnt4.bnt.bg/hls/live.m3u8
-#EXTINF:-1 tvg-id="EuronewsBulgaria.bg" group-title="News",Euronews Bulgaria
-https://www.youtube.com/channel/UCU16i8GHMY9E6L9k20X8hA/live
-#EXTINF:-1 tvg-id="TV1.bg" group-title="Regional",TV1
-https://tv1.cloudcdn.bg/temp/livestream.m3u8
-#EXTINF:-1 tvg-id="CityTV.bg" group-title="Music",City TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
+
+# ---------- NEWS ----------
+#EXTINF:-1 tvg-id="euronews.bg" tvg-logo="https://i.imgur.com/2p5z8Qp.png" group-title="News",Euronews Bulgaria
+https://ythls.army/live/euronewsbulgaria/index.m3u8
+
+# ---------- MUSIC ----------
+#EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://i.imgur.com/4u3p0zS.png" group-title="Music",City TV
+https://streamer1.streamhost.org/citytv/live.m3u8
+
+# ---------- GENERAL ----------
+#EXTINF:-1 tvg-id="tv1.bg" tvg-logo="https://i.imgur.com/4u3p0zS.png" group-title="General",TV1
+https://tv1channel.tv/live/tv1.m3u8
+
